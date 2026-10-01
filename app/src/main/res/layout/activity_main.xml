@@ -22,7 +22,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
-            android:text="Bruno Silva de Freitas"
+            android:text="Eduardo Jose Bernardo da Silva "
             android:textColor="?attr/colorOnPrimary"
             android:textSize="18sp"
             android:textStyle="bold" />
